@@ -1,0 +1,1 @@
+# Nikto wrapper placeholder
